@@ -1,0 +1,29 @@
+A **keylogger** (short for **key recorder**) is a type of surveillance software or hardware device that secretly records the keystrokes typed on a computer or mobile device. Keyloggers can capture everything typed, including sensitive information such as usernames, passwords, credit card numbers, and personal messages, making them a major security threat.
+
+### Types of Keyloggers:
+1. **Software Keyloggers**: 
+   - These are programs installed on a device to monitor and record keystrokes. They can operate in the background without the user’s knowledge and can be difficult to detect by standard antivirus software.
+   - Some software keyloggers are designed for legitimate purposes (e.g., parental control or employee monitoring), but most are used maliciously for cybercrime.
+   
+2. **Hardware Keyloggers**: 
+   - These are physical devices plugged between a computer's keyboard and the system. They record keystrokes directly from the hardware level and are harder to detect.
+   - They can be small devices that are discreetly inserted into the USB port or the keyboard cable.
+
+### How Keyloggers Work:
+- **Recording Keystrokes**: Keyloggers intercept each key press and store this data locally or send it over a network to a remote server.
+- **Data Storage**: The recorded data can be saved in log files, often encrypted, to avoid detection.
+- **Sending Data**: Some keyloggers send captured data to a remote attacker, usually via email or other means, allowing hackers to gather sensitive information from the victim's device.
+
+### Risks of Keyloggers:
+- **Privacy Invasion**: Keyloggers can compromise personal privacy by capturing everything typed, including passwords, private messages, and credit card information.
+- **Identity Theft**: The stolen information can be used for identity theft, financial fraud, or hacking into personal accounts.
+- **Data Theft**: Keyloggers can lead to the theft of sensitive company or client data, which is especially dangerous in the context of corporate espionage or government hacking.
+
+### Prevention Measures:
+- **Use Anti-Keylogger Software**: Specialized tools that can detect and block keyloggers.
+- **Keep Software Updated**: Regularly updating your operating system and software reduces the chances of malware infections.
+- **Use On-Screen Keyboards**: Some software keyloggers cannot capture keystrokes entered using on-screen keyboards.
+- **Physical Security**: For hardware keyloggers, maintaining physical control over your devices can help prevent tampering.
+- **Encryption**: Encrypting sensitive data can protect it even if a keylogger is present.
+
+Keyloggers are powerful tools in the hands of cybercriminals but can also be used in legitimate ways, like parental controls and employee monitoring, if done transparently and with consent.
